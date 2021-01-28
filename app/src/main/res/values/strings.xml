@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DaVinciApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Leonardo da Vinci</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_Alta">Alta</string>
+    <string name="action_Baja">Baja</string>
+    <string name="action_Modificacion">Modificación</string>
+
+    <string name="menu_escultor">Escultor</string>
+    <string name="menu_pintor">Pintor</string>
+    <string name="menu_cientifico">Cientifico</string>
+    <string name="menu_inventor">Inventor</string>
+    <string name="pintura_titulo">La última cena</string>
+    <string name="escultura_titulo">La Virgen con el niño riendo</string>
+    <string name="cientifico_titulo">Estudio sobre la onda estacionaria</string>
+    <string name="inventor_titulo">El helicóptero</string>
+    <string name="inventor_texto">Aunque el primer helicóptero de la historia fue construido en el siglo XX, en la década de los 40, varios siglos antes Leonardo Da Vinci ya había pensado en un aparato en forma de hélice para surcar los cielos.</string>
+
+</resources>
